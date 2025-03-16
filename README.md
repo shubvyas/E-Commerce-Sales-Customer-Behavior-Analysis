@@ -1,10 +1,10 @@
 # E-Commerce Sales & Customer Behavior Analysis
 
-**📌 Project Overview**
+## **📌 Project Overview**
 
 . This project focuses on analyzing an open-source online retail dataset to uncover key revenue drivers and customer behavior patterns. The goal is to develop data-driven strategies to boost sales and enhance customer satisfaction for an e-commerce business.
 
-**🔍 Problem Statement**
+## **🔍 Problem Statement**
 
    . As a Data Analyst at an emerging e-commerce startup, you are tasked with:
 
@@ -19,7 +19,7 @@
 5. Providing actionable business recommendations based on the analysis.
 
 
-**🛠️ Tech Stack**
+## **🛠️ Tech Stack**
 
 1. Python: Data ingestion, cleaning, and preprocessing.
    
@@ -28,7 +28,7 @@
 3. Power BI: Data visualization and dashboard creation.
 
 
-**📊 Insights & Findings**
+## **📊 Insights & Findings**
 
 1. Seasonal trends in e-commerce sales (monthly/quarterly variations).
    
@@ -38,7 +38,7 @@
    
 4. Return rates, discount impact, and geographic distribution of customers.
 
-# **📌 Project Scope**
+## **📌 Project Scope**
 
 This project analyzes e-commerce sales and customer behavior to identify revenue drivers and growth strategies. It includes data cleaning in Python, storage and querying in SQL, and interactive visualizations in Power BI. Key insights cover sales trends, top products, customer segments, and return rates. The final deliverables include cleaned datasets, SQL queries, dashboards, and a business insights report.
 
