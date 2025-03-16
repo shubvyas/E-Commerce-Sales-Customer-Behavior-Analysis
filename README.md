@@ -34,7 +34,7 @@ Your **objective** is to analyze past customer behavior, identify key revenue dr
 
 •	**Export** relevant subsets from the SQL database into Excel.
 
-•	**Create Pivot Tables** and **Charts** to quickly visualize:
+•	**Create  **Charts** to quickly visualize:
 
 •	Monthly/quarterly sales trends.
 
@@ -43,3 +43,16 @@ Your **objective** is to analyze past customer behavior, identify key revenue dr
 •	Performance by product categories (e.g., sales by category, return rates, discount usage).
 
 •	**Highlight** at least 2–3 insights in these dashboards (e.g., seasonality, best-selling product lines, top customer segments).
+
+
+**Project Scope**
+
+•	**Deliverables**:
+
+1.	**Cleaned Dataset** and the **Python notebook/script** with data cleaning & exploration.
+
+2.	**SQL DDL/DML scripts** and a sample of your **SQL queries**.
+
+3.	**Power BI Dashboard** with charts, and highlighted insights.
+
+5.	**Executive Summary** (slides/Word/PDF) of key business insights and recommendations.
