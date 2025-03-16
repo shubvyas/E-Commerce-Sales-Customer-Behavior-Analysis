@@ -14,4 +14,32 @@ Your **objective** is to analyze past customer behavior, identify key revenue dr
 
 •	**Document** your data cleaning steps, explaining your reasoning behind each transformation.
 
-**Outcome**: A cleaned, well-structured dataset ready for analysis.
+
+**2. Data Storage & Retrieval (SQL)**
+
+•	**Create** a database (e.g., SQLite or PostgreSQL) to store the cleansed dataset.
+
+•	**Write** SQL queries to:
+
+•	Summarize **total sales** by month or by product category.
+
+•	Identify **top-selling products** by revenue and quantity sold.
+
+•	Uncover **repeat customers** vs. one-time buyers.
+
+•	Perform at least one **join** or **advanced aggregation** to combine multiple tables or aspects (e.g., product categories with transaction details).
+
+
+**3. Exploratory Analysis & Dashboards (Power BI)**
+
+•	**Export** relevant subsets from the SQL database into Excel.
+
+•	**Create Pivot Tables** and **Charts** to quickly visualize:
+
+•	Monthly/quarterly sales trends.
+
+•	Distribution of customers across geographic regions.
+
+•	Performance by product categories (e.g., sales by category, return rates, discount usage).
+
+•	**Highlight** at least 2–3 insights in these dashboards (e.g., seasonality, best-selling product lines, top customer segments).
