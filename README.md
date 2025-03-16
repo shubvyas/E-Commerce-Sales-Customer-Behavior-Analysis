@@ -38,4 +38,8 @@
    
 4. Return rates, discount impact, and geographic distribution of customers.
 
+# **📌 Project Scope**
+
+This project analyzes e-commerce sales and customer behavior to identify revenue drivers and growth strategies. It includes data cleaning in Python, storage and querying in SQL, and interactive visualizations in Power BI. Key insights cover sales trends, top products, customer segments, and return rates. The final deliverables include cleaned datasets, SQL queries, dashboards, and a business insights report.
+
 
