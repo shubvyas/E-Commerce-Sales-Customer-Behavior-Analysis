@@ -1,4 +1,4 @@
-#### E-Commerce Sales & Customer Behavior Analysis
+# E-Commerce Sales & Customer Behavior Analysis
 
 ##**📌 Project Overview**
 
